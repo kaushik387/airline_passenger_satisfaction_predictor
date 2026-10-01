@@ -31,7 +31,7 @@ Only `Arrival Delay in Minutes` has missing values (310 rows, about 0.3%).
 
 ## EDA
 
-![EDA](images/eda.png)
+![image text](images/eda.png)
 
 Satisfaction differs a lot by group. Business class passengers are far more likely to be satisfied (roughly 69%) than Eco Plus (about 25%) or Eco (about 19%). The gap is just as large for type of travel: business passengers are much more satisfied than personal travelers.
 
